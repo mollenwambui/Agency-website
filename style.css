@@ -1,0 +1,289 @@
+body{
+    background-color:white;
+} 
+ nav{
+    display: inline;
+}
+nav li{
+   padding: 1%;
+    display:inline;
+    margin-left: 10%;
+
+}
+.paragraph h1{
+   color: #663300;
+    font-size: 40px;
+    margin-top: -10%;
+}
+.buttn{
+   margin-left: 80%;
+   background-color: rgb(47, 0, 255);
+    width: 10%;
+    height: 7vh;
+   color: white;
+   border-radius: 10px;
+  
+}
+label{
+    color: blue;
+}
+.camera{
+    border: 2px solid yellow;
+    width: 2%;
+    background-color: yellow;
+    border-radius: 50%;
+    
+}
+.twitter{
+    margin-left: 10%;
+    margin-top: -2%;
+    border: 2px solid;
+    background-color: rgb(47, 0, 255);
+    border-radius: 50%;
+    width: 2%;
+}
+.button{
+    border: 2px solid rgb(31, 199, 199) ;
+    width: 40%;
+    height: 6vh;
+    background-color:rgb(31, 199, 199)  ;
+    border-radius: 10px;
+    color: white;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.first{
+    display: flex;
+}
+.paragraph{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.experience{
+    display: flex;
+    padding: 5%;
+    margin-top: -15%;
+}
+.years{
+    padding: 10%;
+}
+.members{
+    padding: 10%;
+}
+.projects{
+    padding: 10%;
+}
+.image img{
+    width: 50%;
+    height: 30%;
+    padding: 30%;
+    margin-left: 5%;
+    padding-bottom: 5%;
+}
+.imagess img{
+    width: 13%;
+    height: 80%;
+    padding: 3%;
+    margin-left: 50%;
+    padding-bottom: 5%;
+    
+}
+#flag{
+    color: rgb(56, 41, 124);
+}
+.images img{
+    width: 300%;
+    height: 90%;
+    padding-top: 5%;
+ 
+}
+.images{
+    margin-left: 20%;
+}
+.second{
+    display: flex;
+    margin-top: -23%;
+    padding: 9%;
+}
+.logo{
+    font-size: larger;
+    padding-top: 2%;
+    color: gray;
+}
+.header{
+    margin-left: 40%;
+
+}
+.header h1{
+    color: 	#663300;
+}
+.section{
+    display: flex;
+}
+.design{
+    padding: 5%;
+    margin-left: 5%;
+    background-color: azure;
+    margin: 5%;
+}
+.develop{
+    padding: 5%;
+    background-color:rgb(51, 153, 128);
+    margin: 5%;
+    color: white;
+}
+.imgs{
+    display: flex;
+}
+.imgs img{
+    width: 50%;
+    padding: 2%;
+}
+
+.market{
+    padding: 5%;
+    background-color: azure;
+    margin: 5%;
+}
+.styling{
+    display: flex;
+}
+.divs{
+    padding: 5%;
+    font-size: x-large;
+}
+.work h1{
+    color: 	 #663300;
+} 
+
+.email{
+    margin-left: 20%;
+}
+.email h6{
+    margin-left: 12%;
+    font-size: 15px;
+}
+.adress{
+    border:2px solid black;
+    height: 6vh;
+    width: 50%;
+    padding-bottom: 2%;
+    background-color:rgb(51, 153, 128);
+    padding-left: 10%;
+    padding-top: 4%;
+    border-radius: 10px;
+}
+
+
+.ig{
+    color: yellow;
+}
+#tweet{
+    color: rgb(51, 153, 128);
+}
+.sub{
+    background-color:rgb(51, 153, 128) ;
+    padding: 3% 5%;
+    margin-left: 38%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    font-size: large;
+    width: 60%;
+}
+input
+{
+    height: 7vh;
+    width: 130%;
+    border-color: none;
+    
+}
+.Done{
+    margin-left: 10%;
+   
+  
+   
+}
+.picture{
+    margin-top: -40%;
+    margin-left: 20%;
+    
+}
+.final{
+    display: flex;
+}
+.color{
+    background-color: #ECF9FD;
+}
+
+.both{
+    display: flex;
+}
+.divs H2{
+    color: #663300;
+}
+.one{
+  margin: 5%;
+    border: #ECF9FD;
+   background-color: white;
+   height: 8vh;
+   border-radius: 20%;
+   padding-top: 2%;
+}
+.myicon{
+
+    color: blue;
+}
+.position{
+    padding-top: 10%;
+    margin-left: 10%;
+    font-size: 20px;
+}
+.subscribe{
+    background-color:blue ;
+    padding: 3% 5%;
+    margin-left: 38%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+    font-size: large;
+    width: 60%;  
+}
+.socialmedia{
+    margin-left: 10%;
+    font-size: 30px;
+}
+.num1{
+    /* border: 4px solid white; */
+  border-radius: 100px;    
+   color: white;
+    background-color: rgb(51, 153, 128);
+    padding: 10px;
+   font-size: xx-large;
+   height: 10vh;
+   width: 30px;
+}
+.num2{
+
+    border-radius: 100%;
+   color: white;
+    background-color: rgb(24, 85, 177);
+    padding: 10px;
+    font-size: xx-large;
+    height: 10vh;
+    width: 30px;
+}
+.num3{
+    border: 4px solid white;
+    border-radius: 40%;
+   color: white;
+    background-color: rgb(224, 221, 28);
+    padding: 10px;
+    font-size: xx-large;
+  
+}
+.splash{
+    margin-left: 60px;
+}
+.splash img{
+    height: 50vh;
+    margin-left: 100px;
+}
