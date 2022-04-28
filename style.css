@@ -1,27 +1,85 @@
 body{
-    background-color:white;
+    background-color:rgb(213,213,222);
 } 
  nav{
     display: inline;
+    padding: -10px;
+    list-style: none;
 }
 nav li{
-   padding: 1%;
+   /* padding: 1%; */
     display:inline;
-    margin-left: 10%;
+    margin-left: 16%;
+   
+  
+}
+.third{
+    background-color: white;
+}
+.second{
+    background-color: white;
+}
+.intro{
 
+    background-color:rgb(255,255,255);
 }
 .paragraph h1{
    color: #663300;
     font-size: 40px;
     margin-top: -10%;
 }
+.work img{
+    width: 80px;
+}
+#abu{
+    color: blue;
+}
+.des{
+    color: blue;
+    background-color: white;
+    border-radius: 50px;
+    width: 10px;
+}
+.desktop{
+    border: solid white;
+    border-radius: 50%;
+   width: 20%;
+    height: 5vh;
+    color: black;
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.mark{
+    border: solid white;
+    border-radius: 50%;
+   width: 20%;
+    height: 5vh;
+    color: white;
+    background-color:yellow;
+    padding-left: 15px;
+    padding-top: 10px;
+
+}
+.flags{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    margin-top: -83px;
+    font-size: 12px;
+}
+.flags img{
+    width: 50px;
+    height: 5vh;
+   
+}
 .buttn{
-   margin-left: 80%;
-   background-color: rgb(47, 0, 255);
+   margin-left: 90%;
+   background-color: rgb(85,132,245);
     width: 10%;
     height: 7vh;
    color: white;
    border-radius: 10px;
+   margin-top: -10px;
   
 }
 label{
@@ -43,10 +101,10 @@ label{
     width: 2%;
 }
 .button{
-    border: 2px solid rgb(31, 199, 199) ;
+    border: 2px solid rgb(67,160,145) ;
     width: 40%;
     height: 6vh;
-    background-color:rgb(31, 199, 199)  ;
+    background-color:rgb(67,160,145)  ;
     border-radius: 10px;
     color: white;
     padding-top: 5%;
@@ -66,6 +124,8 @@ label{
 }
 .years{
     padding: 10%;
+ 
+   
 }
 .members{
     padding: 10%;
@@ -81,7 +141,7 @@ label{
     padding-bottom: 5%;
 }
 .imagess img{
-    width: 13%;
+    width: 16%;
     height: 80%;
     padding: 3%;
     margin-left: 50%;
@@ -92,7 +152,7 @@ label{
     color: rgb(56, 41, 124);
 }
 .images img{
-    width: 300%;
+    width: 310%;
     height: 90%;
     padding-top: 5%;
  
@@ -119,21 +179,24 @@ label{
 }
 .section{
     display: flex;
+    display: 50px;
+    margin-left: 50px;
 }
 .design{
     padding: 5%;
     margin-left: 5%;
-    background-color: azure;
-    margin: 5%;
+    background-color: rgb(245,249,250);
+   
 }
 .develop{
     padding: 5%;
-    background-color:rgb(51, 153, 128);
-    margin: 5%;
+    background-color:rgb(67,160,145);
+    
     color: white;
 }
 .imgs{
     display: flex;
+    padding-top: 10px;
 }
 .imgs img{
     width: 50%;
@@ -142,8 +205,11 @@ label{
 
 .market{
     padding: 5%;
-    background-color: azure;
-    margin: 5%;
+    background-color: rgb(245,249,250) ;
+   
+}
+.fifth{
+    background-color: white;
 }
 .styling{
     display: flex;
@@ -155,9 +221,14 @@ label{
 .work h1{
     color: 	 #663300;
 } 
+.fourth{
+    background-color: white;
+    padding-top: 10px;
+}
 
 .email{
     margin-left: 20%;
+ 
 }
 .email h6{
     margin-left: 12%;
@@ -168,7 +239,7 @@ label{
     height: 6vh;
     width: 50%;
     padding-bottom: 2%;
-    background-color:rgb(51, 153, 128);
+    background-color:rgb(67,160,145);
     padding-left: 10%;
     padding-top: 4%;
     border-radius: 10px;
@@ -199,13 +270,18 @@ input
 }
 .Done{
     margin-left: 10%;
-   
+ 
   
+   
+}
+.preposition{
+    margin-top: -5%;
+  background-color: white;
    
 }
 .picture{
     margin-top: -40%;
-    margin-left: 20%;
+    margin-left: 30%;
     
 }
 .final{
@@ -223,20 +299,27 @@ input
 }
 .one{
   margin: 5%;
-    border: #ECF9FD;
-   background-color: white;
-   height: 8vh;
-   border-radius: 20%;
-   padding-top: 2%;
+  border: 2px solid rgb(67,160,145) ;
+  width: 40%;
+  height: 6vh;
+  background-color:rgb(67,160,145)  ;
+  border-radius: 10px;
+  color: rgb(22, 2, 2);
+  padding-top: 5%;
+  padding-left: 5%;
 }
 .myicon{
 
     color: blue;
 }
 .position{
-    padding-top: 10%;
+    /* padding-top: 15%; */
     margin-left: 10%;
     font-size: 20px;
+    margin-top: 10%;
+    background-color: white;
+   
+   
 }
 .subscribe{
     background-color:blue ;
@@ -251,15 +334,23 @@ input
     margin-left: 10%;
     font-size: 30px;
 }
+.one{
+    border: 2px solid wheat;
+    background-color: white;
+}
 .num1{
     /* border: 4px solid white; */
-  border-radius: 100px;    
+  border-radius: 50%;    
    color: white;
     background-color: rgb(51, 153, 128);
     padding: 10px;
    font-size: xx-large;
    height: 10vh;
    width: 30px;
+}
+
+.fine{
+    background-color: white;
 }
 .num2{
 
@@ -286,4 +377,16 @@ input
 .splash img{
     height: 50vh;
     margin-left: 100px;
+}
+.form2{
+  background-color: white;  
+}
+.final{
+    background-color: white;
+}
+.main{
+    background-color: white;
+}
+.form{
+    background-color: white;
 }
