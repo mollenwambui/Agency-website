@@ -266,6 +266,8 @@ input
     height: 7vh;
     width: 130%;
     border-color: none;
+    border: none;
+    outline: none;
     
 }
 .Done{
@@ -273,6 +275,11 @@ input
  
   
    
+}
+.input{
+    border: none;
+    outline: none;
+    background-color:rgb(213,213,222) ;
 }
 .preposition{
     margin-top: -5%;
